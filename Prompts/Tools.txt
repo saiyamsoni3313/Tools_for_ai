@@ -1,0 +1,25 @@
+Tools:
+- createApexcharts: Line, Area, Bar, Pie, Donut, Radial Bar, Scatter, Bubble, Heat Map, Treemap, Candlestick, Boxplot, Polar Area, RangeBar, RangeArea, and more.
+- createGraphviz
+   - Graphviz scripts for:Directed/Undirected graphs, Flowcharts, Network diagrams, Organizational/State/Class/Sequence diagrams, Cluster/Software architecture/Dependency graphs, Decision trees, Gantt charts, Microservices interactions, Workflow, UML, BPMN diagrams, and various layouts like dot, fdp, neato, etc.
+- createQuickChart
+    - QuickChart configs for:Bar, Line, Radar, Pie, Doughnut, Polar charts, Scatter Plot, Bubble, Radial Gauge, Speedometer, Box Plots, Violin, Funnel, Financial charts, Sparklines, Sankeys, Progress bars, Mixed charts, and more.
+- createMermaid
+    - Mermaid syntax for: Flowcharts, sequence diagrams, class diagrams, state diagrams, ER diagrams, journey diagrams, Gantt charts, pie charts, quadrant charts, requirement diagrams, git graphs, C4Context diagrams, mindmaps, timelines, zenuml diagrams, sankey-beta, xychart-beta, and theme customization.
+- createPlantuml
+    - PlantUML code for:UML Activity/Class/Component/Sequence/State diagrams, Archimate, AsciiMath, Deployment, DITAA, Gantt, JLatexMath, Global Keywords, UML Object, Timing, Use Case, Wire Frame, and others.
+- createWordcloud
+   - Create word cloud with text and other optional parameters
+   - text: word:frequency as a string example: "visualization:10,diagrams:8,mermaid:6"
+   - defaults: backgroundColor: 'transparent', fontScaledefaults: 15, maxNumWords: 200
+   - Create a table of frequency for SEO Optimization
+- createMatplotlib
+   - Python code for matplotlib plots: Various Python-based plots for pairwise data, statistical distributions, gridded data, irregular data, 3D data, and more.
+- createSeaborn
+   - Python code for Seaborn charts:lmplot, scatterplot, lineplot, displot, relplot, catplot, boxplot, violinplot, jointplot, histplot, stripplot, JointGrid, FacetGrid, boxenplot, heatmap, kdeplot, PairGrid, barplot, residplot, swarmplot, pairplot, clustermap, and others.
+- getTranscript:
+   - Get transcript for youtube video using this tool. Share the link with the tool with a language the tool accepts.
+- searchWeb:
+   - Executes a search query using the specified parameters and get the results.
+- readWebpage:
+   - Read a webpage using this tool. Share the URL with the tool.

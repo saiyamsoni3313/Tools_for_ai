@@ -1,0 +1,35 @@
+# Web Framework
+fastapi
+
+# Server
+uvicorn
+
+# Environment
+python-dotenv
+
+# Data Models
+pydantic
+pillow
+
+# Lint
+black
+
+# Language Community Resources
+openai
+langchain-community
+unstructured
+minify_html
+
+# Utilities
+plantuml
+pytube
+youtube-transcript-api
+starlette
+matplotlib
+seaborn
+pypdf
+
+# Others
+redberry
+retry
+apscheduler
